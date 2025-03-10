@@ -13,37 +13,6 @@ Este é um projeto de **agendamento de corte de cabelo** desenvolvido com JavaSc
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-├── src/
-│   ├── assets/
-│   ├── libs/
-│   │   ├── dayjs.js
-│   ├── modules/
-│   │   ├── form/
-│   │   ├── schedules/
-│   │   │   ├── page-loader.js
-│   ├── services/
-│   │   ├── api-config.js
-│   │   ├── schedule-cancel.js
-│   │   ├── schedule-fetch-by-day.js
-│   │   ├── schedule-new.js
-│   ├── styles/
-│   │   ├── form.css
-│   │   ├── global.css
-│   │   ├── schedule.css
-│   ├── utils/
-│   │   ├── opening-hours.js
-│   ├── main.js
-├── index.html
-├── package-lock.json
-├── .gitignore
-├── anotacoes.md
-```
-
----
-
 ## ⚡ Funcionalidades
 
 ✅ **Agendamento de horários**: O usuário pode selecionar um horário disponível e confirmar o agendamento.
